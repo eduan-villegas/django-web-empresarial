@@ -1,0 +1,3 @@
+Usuario: Eduan
+correo: admin@admin.com
+pass: 12345
